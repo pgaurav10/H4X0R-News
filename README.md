@@ -3,7 +3,7 @@
 ## Goal
 Displaying all the news from Y comibnator api
 
-##Api
+## Api
 here: 
 
-##Images
+## Images
